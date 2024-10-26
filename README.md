@@ -12,6 +12,9 @@ Moroccan 🇲🇦
 🔧 **Core Skills**:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+
+---
+  
 🌐 **Selected Projects**:
    - **WRO**
    - **FLL**
