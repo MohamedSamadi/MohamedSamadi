@@ -10,7 +10,7 @@ Moroccan 🇲🇦
    - Contributing to open-source projects and collaborating on innovative ideas
 
 🔧 **Core Skills**:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py)](https://skillicons.dev)
 
 
 ---
